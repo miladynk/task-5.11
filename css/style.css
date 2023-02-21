@@ -9,7 +9,8 @@ header {
     justify-content: center;
     height: 400px;
     background: url(../images/sea.jpg);
-    background-size: cover;
+    background-size:cover;
+    background-repeat: no no-repeat;
     background-color: blanchedalmond;
 }
 
